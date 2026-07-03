@@ -1,0 +1,23 @@
+# Built artifacts
+**/build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Android Studio / IntelliJ IDE files
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# KSP generated files (will be regenerated on build)
+build/
+app/build/

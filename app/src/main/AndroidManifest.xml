@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.atlas">
+
+    <application
+        android:name=".AtlasApplication"
+        android:allowBackup="false"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:label="Atlas"
+        android:supportsRtl="true">
+        <!-- Database layer entry point and Hilt preparation -->
+    </application>
+
+</manifest>
